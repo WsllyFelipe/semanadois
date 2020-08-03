@@ -1,0 +1,82 @@
+html, body {
+    margin: 0;
+}
+
+#imagem_fundo {
+    background: url("img/img_fundo.jpg");
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+}
+
+
+#titulo {
+    color: coral;
+    padding-top: 10%;
+    font-size: 600%;
+    line-height: 1;
+    text-shadow: red;
+}
+
+#subtitulo {
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+    hr align="center" width="80%"
+}
+
+
+#acao {
+    color: white;
+    border: 1px white solid;
+    padding: 10px 20px 10px 20px;
+}
+
+#combate {
+    background-c
+}
+
+.icone {
+    width: 51px;
+    }
+
+ section {
+     padding: 20px;
+     float: left;
+ }   
+
+
+.destaque { 
+    background-color: aquamarine;
+
+}
+
+.coluna {   
+    float: left;
+    padding: 5% 5%;
+    position: relative;
+
+}
+
+.dois {
+    width: 40%;
+
+}
+
+.quatro {
+    width: 15%;
+}
+
+.justificado {
+    text-align: justify;
+}
+
+.centralizado {
+    text-align: center;
+}
+
+
+.video {
+    padding: 8%;
+}
+
